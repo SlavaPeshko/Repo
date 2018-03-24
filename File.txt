@@ -2,3 +2,4 @@ commit_1 in master
 commit_2 in master
 commit_5 in master
 commit_6 in master
+commit_7 in future
