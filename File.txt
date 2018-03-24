@@ -1,3 +1,2 @@
 commit_1 in master
 commit_2 in master
-commit_4 in master
