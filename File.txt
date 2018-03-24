@@ -1,2 +1,3 @@
 commit_1 in master
 commit_2 in master
+commit_3 in master
